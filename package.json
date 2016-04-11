@@ -1,0 +1,24 @@
+{
+  "name": "mongoose-failover",
+  "version": "1.0.0",
+  "description": "A simple mongoose based failover service.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "mongo",
+    "mongoose",
+    "failover"
+  ],
+  "author": "R.M.",
+  "license": "ISC",
+  "dependencies": {
+    "co": "^4.6.0",
+    "debug": "^2.2.0",
+    "lodash": "^4.7.0",
+    "moment": "^2.12.0",
+    "mongoose": "^4.4.11"
+  }
+}
